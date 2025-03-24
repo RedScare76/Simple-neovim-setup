@@ -1,4 +1,4 @@
--- Set space as the leader key (this must be at the top of your config)
+-- Set space as the leader key 
 vim.g.mapleader = " "
 
 -- Setup nvim-tree keybinding
