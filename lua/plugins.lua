@@ -80,7 +80,7 @@ return {
     {
         "github/copilot.vim"
 	},
-     -- using lazy.nvim
+     
      {
   "S1M0N38/love2d.nvim",
   cmd = "LoveRun",
